@@ -1260,99 +1260,101 @@
         </div>
       </div>
     </div>
+    
+    
     <div class="tt-position-relative tt-overflow-hidden">
       <div class="lazyload tt-obj03-bg" data-bg="images/wrapper06.png"></div>
       <div class="section-indent">
-        <div class="container container-fluid-lg">
-          <div class="title-block text-center">
-            <div class="title-block__label"> What we offer </div>
-            <h4 class="title-block__title">Price Packages</h4>
-            <div class="title-block__text">
-              Our prices are simple and affordable which are easy on pocket<br />in
-              comparison with the high street prices
-            </div>
-          </div>
-          <div class="promo02__wrapper row js-init-carusel-tablet slick-default">
-            <div class="tt-item col-md-4">
-              <div class="promo02 js-handler">
-                <div class="promo02__icon"><i class="icons-2840435"></i></div>
-                <div class="promo02__title">Standard Package</div>
-                <div class="promo02__subtitle">50 Clothes Per Month</div>
-                <div class="promo02__show-layout">
-                  <ul>
-                    <li>4 T-Shirts</li>
-                    <li>1 Pairs of Jeans</li>
-                    <li>3 Button-Down Shirts</li>
-                    <li>1 Pair of Shorts</li>
-                    <li>7 Pairs of Underwear</li>
-                    <li>6 Pairs of Socks</li>
-                    <li>1 Towel</li>
-                    <li>1 Set of Sheets</li>
-                  </ul>
-                </div>
-                <div class="promo02__price">₦349.00</div>
-                <div class="promo02__show-btn">
-                  <a href="#" class="tt-btn tt-btn__wide"><span class="mask">Order Now</span>
-                    <div class="button">Order Now</div>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="tt-item col-md-4">
-              <div class="promo02 js-handler">
-                <div class="promo02__icon"><i class="icons-2840421"></i></div>
-                <div class="promo02__title">Enterprise Package</div>
-                <div class="promo02__subtitle">60 Clothes Per Month</div>
-                <div class="promo02__show-layout">
-                  <ul>
-                    <li>4 T-Shirts</li>
-                    <li>2 Pairs of Jeans</li>
-                    <li>4 Button-Down Shirts</li>
-                    <li>2 Pair of Shorts</li>
-                    <li>8 Pairs of Underwear</li>
-                    <li>6 Pairs of Socks</li>
-                    <li>2 Towel</li>
-                    <li>2 Set of Sheets</li>
-                  </ul>
-                </div>
-                <div class="promo02__price">₦399.00</div>
-                <div class="promo02__show-btn">
-                  <a href="#" class="tt-btn tt-btn__wide"><span class="mask">Order Now</span>
-                    <div class="button">Order Now</div>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="tt-item col-md-4">
-              <div class="promo02 js-handler">
-                <div class="promo02__icon"><i class="icons-2230769"></i></div>
-                <div class="promo02__title">Premium Package</div>
-                <div class="promo02__subtitle">80 Clothes Per Month</div>
-                <div class="promo02__show-layout">
-                  <ul>
-                    <li>6 T-Shirts</li>
-                    <li>3 Pairs of Jeans</li>
-                    <li>4 Button-Down Shirts</li>
-                    <li>2 Pair of Shorts</li>
-                    <li>9 Pairs of Underwear</li>
-                    <li>8 Pairs of Socks</li>
-                    <li>2 Towel</li>
-                    <li>2 Set of Sheets</li>
-                  </ul>
-                </div>
-                <div class="promo02__price">
-                  <span class="old-price">₦449.00</span>
-                  <span class="new-price">₦449.00</span>
-                </div>
-                <div class="promo02__show-btn">
-                  <a href="#" class="tt-btn tt-btn__wide"><span class="mask">Order Now</span>
-                    <div class="button">Order Now</div>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <!--<div class="container container-fluid-lg">-->
+        <!--  <div class="title-block text-center">-->
+        <!--    <div class="title-block__label"> What we offer </div>-->
+        <!--    <h4 class="title-block__title">Price Packages</h4>-->
+        <!--    <div class="title-block__text">-->
+        <!--      Our prices are simple and affordable which are easy on pocket<br />in-->
+        <!--      comparison with the high street prices-->
+        <!--    </div>-->
+        <!--  </div>-->
+        <!--  <div class="promo02__wrapper row js-init-carusel-tablet slick-default">-->
+        <!--    <div class="tt-item col-md-4">-->
+        <!--      <div class="promo02 js-handler">-->
+        <!--        <div class="promo02__icon"><i class="icons-2840435"></i></div>-->
+        <!--        <div class="promo02__title">Standard Package</div>-->
+        <!--        <div class="promo02__subtitle">50 Clothes Per Month</div>-->
+        <!--        <div class="promo02__show-layout">-->
+        <!--          <ul>-->
+        <!--            <li>4 T-Shirts</li>-->
+        <!--            <li>1 Pairs of Jeans</li>-->
+        <!--            <li>3 Button-Down Shirts</li>-->
+        <!--            <li>1 Pair of Shorts</li>-->
+        <!--            <li>7 Pairs of Underwear</li>-->
+        <!--            <li>6 Pairs of Socks</li>-->
+        <!--            <li>1 Towel</li>-->
+        <!--            <li>1 Set of Sheets</li>-->
+        <!--          </ul>-->
+        <!--        </div>-->
+        <!--        <div class="promo02__price">₦349.00</div>-->
+        <!--        <div class="promo02__show-btn">-->
+        <!--          <a href="#" class="tt-btn tt-btn__wide"><span class="mask">Order Now</span>-->
+        <!--            <div class="button">Order Now</div>-->
+        <!--          </a>-->
+        <!--        </div>-->
+        <!--      </div>-->
+        <!--    </div>-->
+        <!--    <div class="tt-item col-md-4">-->
+        <!--      <div class="promo02 js-handler">-->
+        <!--        <div class="promo02__icon"><i class="icons-2840421"></i></div>-->
+        <!--        <div class="promo02__title">Enterprise Package</div>-->
+        <!--        <div class="promo02__subtitle">60 Clothes Per Month</div>-->
+        <!--        <div class="promo02__show-layout">-->
+        <!--          <ul>-->
+        <!--            <li>4 T-Shirts</li>-->
+        <!--            <li>2 Pairs of Jeans</li>-->
+        <!--            <li>4 Button-Down Shirts</li>-->
+        <!--            <li>2 Pair of Shorts</li>-->
+        <!--            <li>8 Pairs of Underwear</li>-->
+        <!--            <li>6 Pairs of Socks</li>-->
+        <!--            <li>2 Towel</li>-->
+        <!--            <li>2 Set of Sheets</li>-->
+        <!--          </ul>-->
+        <!--        </div>-->
+        <!--        <div class="promo02__price">₦399.00</div>-->
+        <!--        <div class="promo02__show-btn">-->
+        <!--          <a href="#" class="tt-btn tt-btn__wide"><span class="mask">Order Now</span>-->
+        <!--            <div class="button">Order Now</div>-->
+        <!--          </a>-->
+        <!--        </div>-->
+        <!--      </div>-->
+        <!--    </div>-->
+        <!--    <div class="tt-item col-md-4">-->
+        <!--      <div class="promo02 js-handler">-->
+        <!--        <div class="promo02__icon"><i class="icons-2230769"></i></div>-->
+        <!--        <div class="promo02__title">Premium Package</div>-->
+        <!--        <div class="promo02__subtitle">80 Clothes Per Month</div>-->
+        <!--        <div class="promo02__show-layout">-->
+        <!--          <ul>-->
+        <!--            <li>6 T-Shirts</li>-->
+        <!--            <li>3 Pairs of Jeans</li>-->
+        <!--            <li>4 Button-Down Shirts</li>-->
+        <!--            <li>2 Pair of Shorts</li>-->
+        <!--            <li>9 Pairs of Underwear</li>-->
+        <!--            <li>8 Pairs of Socks</li>-->
+        <!--            <li>2 Towel</li>-->
+        <!--            <li>2 Set of Sheets</li>-->
+        <!--          </ul>-->
+        <!--        </div>-->
+        <!--        <div class="promo02__price">-->
+        <!--          <span class="old-price">₦449.00</span>-->
+        <!--          <span class="new-price">₦449.00</span>-->
+        <!--        </div>-->
+        <!--        <div class="promo02__show-btn">-->
+        <!--          <a href="#" class="tt-btn tt-btn__wide"><span class="mask">Order Now</span>-->
+        <!--            <div class="button">Order Now</div>-->
+        <!--          </a>-->
+        <!--        </div>-->
+        <!--      </div>-->
+        <!--    </div>-->
+        <!--  </div>-->
+        <!--</div>-->
       </div>
       <div class="container section-inner container-fluid-xl no-gutters">
         <div class="tt-promo">
@@ -1376,6 +1378,8 @@
         </div>
       </div>
     </div>
+      <br> <br>
+    
     <div id="map" class="lazyload" data-bg="">
       <iframe src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" data-expand="-220" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.806984754115!2d6.792345074078326!3d6.156599993830528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1043936cadcd3b79%3A0x489d8ea6cd851604!2sBeautiful%20Colours%20Laundry%20%26%20Super%20Dry%20Cleaning!5e0!3m2!1sen!2sng!4v1712051569178!5m2!1sen!2sng" allowfullscreen="" aria-hidden="false"></iframe>
     </div>

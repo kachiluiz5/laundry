@@ -84,167 +84,271 @@
               <div class="title-block text-center">
                 <div class="title-block__label">[ Our Services ]</div>
                 <h4 class="title-block__title">
-                  Dry Cleaning & Laundry,<br />Free Delivery
+                  Dry Cleaning & Laundry,<br />Home Delivery
                 </h4>
               </div>
-              <div class="row img-box__wrapper">
-                <div class="col-custom-450 col-6 col-md-4">
-                  <div class="img-box">
-                    <div class="img-box__img">
-                      <a href="services-item.html"
-                        ><img
-                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                          class="lazyload"
-                          data-src="images/img07.jpg"
-                          alt=""
-                      /></a>
-                      <div class="img-box__label icons-technology"></div>
-                    </div>
-                    <a href="services-item.html" class="img-box__title"
-                      >Laundry Services</a
-                    >
-                    <p>
-                      Let us pick up your dirty laundry, sort it, pre-treat
-                      stains, wash, dry, fold and deliver back to you in one
-                      neat, easy package.
-                    </p>
-                    <a href="services-item.html" class="tt-btn"
-                      ><span class="mask">More Info</span>
-                      <div class="button">More Info</div></a
-                    >
-                  </div>
-                </div>
-                <div class="col-custom-450 col-6 col-md-4">
-                  <div class="img-box">
-                    <div class="img-box__img">
-                      <a href="services-item.html"
-                        ><img
-                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                          class="lazyload"
-                          data-src="images/img08.jpg"
-                          alt=""
-                      /></a>
-                      <div
-                        class="img-box__label icons-hanger-with-clothes"
-                      ></div>
-                    </div>
-                    <a href="services-item.html" class="img-box__title"
-                      >Dry Cleaning Services</a
-                    >
-                    <p>
-                      SMU students and local residents love on our reliable dry
-                      cleaning services for the fast, accurate, top quality
-                      results.
-                    </p>
-                    <a href="services-item.html" class="tt-btn"
-                      ><span class="mask">More Info</span>
-                      <div class="button">More Info</div></a
-                    >
-                  </div>
-                </div>
-                <div class="col-custom-450 col-6 col-md-4">
-                  <div class="img-box">
-                    <div class="img-box__img">
-                      <a href="services-item.html"
-                        ><img
-                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                          class="lazyload"
-                          data-src="images/img09.jpg"
-                          alt=""
-                      /></a>
-                      <div class="img-box__label icons-pilesos"></div>
-                    </div>
-                    <a href="services-item.html" class="img-box__title"
-                      >Carpet Cleaning</a
-                    >
-                    <p>
-                      To keep carpet at peak performance, we recommend
-                      professional deep cleaning your carpet every 12 to 18
-                      months.
-                    </p>
-                    <a href="services-item.html" class="tt-btn"
-                      ><span class="mask">More Info</span>
-                      <div class="button">More Info</div></a
-                    >
-                  </div>
-                </div>
-                <div class="col-custom-450 col-6 col-md-4">
-                  <div class="img-box">
-                    <div class="img-box__img">
-                      <a href="services-item.html"
-                        ><img
-                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                          class="lazyload"
-                          data-src="images/img10.jpg"
-                          alt=""
-                      /></a>
-                      <div class="img-box__label icons-sewing-machine"></div>
-                    </div>
-                    <a href="services-item.html" class="img-box__title"
-                      >Alterations & Repairs</a
-                    >
-                    <p>
-                      We have expert seamstresses and tailors on staff to ensure
-                      we meet and exceed your fitting requirements.
-                    </p>
-                    <a href="services-item.html" class="tt-btn"
-                      ><span class="mask">More Info</span>
-                      <div class="button">More Info</div></a
-                    >
-                  </div>
-                </div>
-                <div class="col-custom-450 col-6 col-md-4">
-                  <div class="img-box">
-                    <div class="img-box__img">
-                      <a href="services-item.html"
-                        ><img
-                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                          class="lazyload"
-                          data-src="images/img11.jpg"
-                          alt=""
-                      /></a>
-                      <div class="img-box__label icons-ironing-board"></div>
-                    </div>
-                    <a href="services-item.html" class="img-box__title"
-                      >Steam Iron</a
-                    >
-                    <p>
-                      These services are accomplished under the guidance of
-                      adroit personnel who have affluent industry proficiency.
-                    </p>
-                    <a href="services-item.html" class="tt-btn"
-                      ><span class="mask">More Info</span>
-                      <div class="button">More Info</div></a
-                    >
-                  </div>
-                </div>
-                <div class="col-custom-450 col-6 col-md-4">
-                  <div class="img-box">
-                    <div class="img-box__img">
-                      <a href="services-item.html"
-                        ><img
-                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                          class="lazyload"
-                          data-src="images/img12.jpg"
-                          alt=""
-                      /></a>
-                      <div class="img-box__label icons-shoes"></div>
-                    </div>
-                    <a href="services-item.html" class="img-box__title"
-                      >Shoes Cleaning</a
-                    >
-                    <p>
-                      We use premium cleaning products and standardised
-                      processes to take care of your shoes and give them
-                      refreshed look.
-                    </p>
-                    <a href="services-item.html" class="tt-btn"
-                      ><span class="mask">More Info</span>
-                      <div class="button">More Info</div></a
-                    >
-                  </div>
-                </div>
-              </div>
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+<div class="row img-box__wrapper">
+    <!-- Drycleaning -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img07.jpg" class="lazyload" data-src="images/img07.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Drycleaning</a>
+            <p>Let us pick up your dirty laundry, sort it, pre-treat stains, wash, dry, fold and deliver back to you in one neat, easy package.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Basic Laundry -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img08.jpg" class="lazyload" data-src="images/img08.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Basic Laundry</a>
+            <p>We provide efficient basic laundry services tailored to your needs.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Laundromat -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img09.jpg" class="lazyload" data-src="images/img09.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Laundromat</a>
+            <p>Visit our laundromat for convenient self-service washing and drying facilities.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Iron and Fold -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img10.jpg" class="lazyload" data-src="images/img10.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Iron and Fold</a>
+            <p>We meticulously iron and neatly fold your clothes to perfection.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Iron and Hang -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img11.jpg" class="lazyload" data-src="images/img11.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Iron and Hang</a>
+            <p>We expertly iron and hang your clothes for a crisp, professional look.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- All Kinds of Stain Removal -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img12.jpg" class="lazyload" data-src="images/img12.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">All Kinds of Stain Removal</a>
+            <p>We effectively remove all types of stains from your clothing and fabrics.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Reviving of Whites -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img13.jpg" class="lazyload" data-src="images/img13.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Reviving of Whites</a>
+            <p>We specialize in bringing back the brightness of your white clothes.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Dying -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img14.jpg" class="lazyload" data-src="images/img14.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Dying</a>
+            <p>We offer professional dying services to give your clothes a fresh look.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Excellent Packaging -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img15.jpg" class="lazyload" data-src="images/img15.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Excellent Packaging</a>
+            <p>We provide top-notch packaging solutions to ensure the safety and freshness of your clothes.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Bulk/Industrial Cleaning -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img16.jpg" class="lazyload" data-src="images/img16.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Bulk/Industrial Cleaning</a>
+            <p>We cater to bulk and industrial cleaning needs with efficiency and precision.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Pick Up and Delivery Services -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img17.jpg" class="lazyload" data-src="images/img17.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Pick Up and Delivery Services</a>
+            <p>Conveniently schedule pick up and delivery of your laundry through our app.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+    <!-- Janitorials/House Cleaning -->
+    <div class="col-custom-450 col-6 col-md-4">
+        <div class="img-box">
+            <div class="img-box__img">
+                <a href="#">
+                    <img src="images/img18.jpg" class="lazyload" data-src="images/img18.jpg" alt="">
+                </a>
+                <div class="img-box__label icons-technology"></div>
+            </div>
+            <a href="#" class="img-box__title">Janitorials/House Cleaning</a>
+            <p>We offer comprehensive house cleaning and janitorial services to keep your surroundings pristine.</p>
+            <a href="#" class="tt-btn">
+                <span class="mask">More Info</span>
+                <div class="button">More Info</div>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             </div>
           </div>
           <div class="section-indent">
