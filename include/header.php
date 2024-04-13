@@ -60,6 +60,7 @@
           </div>
         </div>
       </div>
+      
       <!-- /holder-top (desktop) --><!-- holder- -->
       <div id="js-init-sticky">
         <div class="tt-holder-wrapper">
@@ -85,7 +86,7 @@
                     <li>
                       <a href="services.php">Services</a>
                     </li>
-                    <li><a href="price.php">Prices</a></li>
+                    <!--<li><a href="price.php">Prices</a></li>-->
                     <li><a href="contact.php">Contacts</a></li>
                   </ul>
                 </nav>
